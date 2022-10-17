@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Crud-Class-Version/static/css/main.e6c13ad2.css",
+    "main.js": "/Crud-Class-Version/static/js/main.19058e64.js",
+    "index.html": "/Crud-Class-Version/index.html",
+    "main.e6c13ad2.css.map": "/Crud-Class-Version/static/css/main.e6c13ad2.css.map",
+    "main.19058e64.js.map": "/Crud-Class-Version/static/js/main.19058e64.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.19058e64.js"
+  ]
+}
